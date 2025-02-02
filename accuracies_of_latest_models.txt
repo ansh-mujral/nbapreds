@@ -1,10 +1,10 @@
-LIBLINEAR:
-Average Accuracy over 500 iterations: 0.7158
-Lowest accuracy: 0.4782608695652174
-Highest accuracy: 0.7698209718670077
-5th percentile value: 0.6778360148549644
-95th percentile value: 0.7538468495951635
-STD. DEV: 0.023105653139810237
+LIBLINEAR as of 2/2/25 (test size = 15):
+Average Accuracy over 500 iterations: 0.7719
+Lowest accuracy: 0.3333333333333333
+Highest accuracy: 1.0
+5th percentile value: 0.5919519249721664
+95th percentile value: 0.9517814083611669
+STD. DEV: 0.1093803963748126
 
 SAGA:
 Average Accuracy over 500 iterations: 0.6161
